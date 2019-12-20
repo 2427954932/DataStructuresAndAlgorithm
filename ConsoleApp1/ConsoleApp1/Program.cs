@@ -46,7 +46,7 @@ namespace ConsoleApp1
 
 			}
 
-			Console.ReadKey();
+			Console.ReadKey();//小鸡鸡
 		}
 	}
 }
