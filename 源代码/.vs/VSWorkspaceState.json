@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AverageAge\\AverageAge\\bin",
+    "\\AverageAge\\AverageAge\\bin\\Debug",
+    "\\AverageAge\\AverageAge\\bin\\Release\\netcoreapp3.0",
+    "\\AverageAge\\AverageAge\\Model",
+    "\\AverageAge\\AverageAge\\obj"
   ],
-  "SelectedNode": "\\Chicken",
+  "SelectedNode": "\\AverageAge",
   "PreviewInSolutionExplorer": false
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Desktop\\新建文件夹\\DataStructuresAndAlgorithm\\AverageAge\\AverageAge\\AverageAge.csproj": {}
+    "C:\\Users\\Administrator\\Desktop\\新建文件夹\\DataStructuresAndAlgorithm\\源代码\\AverageAge\\AverageAge\\AverageAge.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Desktop\\新建文件夹\\DataStructuresAndAlgorithm\\AverageAge\\AverageAge\\AverageAge.csproj": {
+    "C:\\Users\\Administrator\\Desktop\\新建文件夹\\DataStructuresAndAlgorithm\\源代码\\AverageAge\\AverageAge\\AverageAge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\DataStructuresAndAlgorithm\\AverageAge\\AverageAge\\AverageAge.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\DataStructuresAndAlgorithm\\源代码\\AverageAge\\AverageAge\\AverageAge.csproj",
         "projectName": "AverageAge",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\DataStructuresAndAlgorithm\\AverageAge\\AverageAge\\AverageAge.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\DataStructuresAndAlgorithm\\源代码\\AverageAge\\AverageAge\\AverageAge.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\DataStructuresAndAlgorithm\\AverageAge\\AverageAge\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Desktop\\新建文件夹\\DataStructuresAndAlgorithm\\源代码\\AverageAge\\AverageAge\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
