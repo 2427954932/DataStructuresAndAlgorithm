@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\新建文件夹\DataStructuresAndAlgorithm\Poker\Poker\bin\Debug\netcoreapp3.0\Poker.exe
+C:\Users\Administrator\Desktop\新建文件夹\DataStructuresAndAlgorithm\Poker\Poker\bin\Debug\netcoreapp3.0\Poker.deps.json
+C:\Users\Administrator\Desktop\新建文件夹\DataStructuresAndAlgorithm\Poker\Poker\bin\Debug\netcoreapp3.0\Poker.runtimeconfig.json
+C:\Users\Administrator\Desktop\新建文件夹\DataStructuresAndAlgorithm\Poker\Poker\bin\Debug\netcoreapp3.0\Poker.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\新建文件夹\DataStructuresAndAlgorithm\Poker\Poker\bin\Debug\netcoreapp3.0\Poker.dll
+C:\Users\Administrator\Desktop\新建文件夹\DataStructuresAndAlgorithm\Poker\Poker\bin\Debug\netcoreapp3.0\Poker.pdb
+C:\Users\Administrator\Desktop\新建文件夹\DataStructuresAndAlgorithm\Poker\Poker\obj\Debug\netcoreapp3.0\Poker.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹\DataStructuresAndAlgorithm\Poker\Poker\obj\Debug\netcoreapp3.0\Poker.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\新建文件夹\DataStructuresAndAlgorithm\Poker\Poker\obj\Debug\netcoreapp3.0\Poker.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\新建文件夹\DataStructuresAndAlgorithm\Poker\Poker\obj\Debug\netcoreapp3.0\Poker.dll
+C:\Users\Administrator\Desktop\新建文件夹\DataStructuresAndAlgorithm\Poker\Poker\obj\Debug\netcoreapp3.0\Poker.pdb
